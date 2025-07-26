@@ -40,7 +40,7 @@ navbar.classList.remove('active');
 };
 
 /*========== swiper ==========*/
-var swiper = new Swiper(".mySwiper", {
+var swiper = new swiper(".mySwiper", {
     slidesPerView: 1,
     spaceBetween: 50,
     loop: true,
